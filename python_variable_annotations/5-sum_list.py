@@ -3,9 +3,8 @@
 Task 5:
 Calculate the sum of all the numbers in the input list.
 """
-
-
 from typing import List
+
 
 def sum_list(input_list: List[float]) -> float:
     """
