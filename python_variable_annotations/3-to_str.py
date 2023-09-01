@@ -7,12 +7,12 @@ Convert a float number to a string representation.
 
 def to_str(n: float) -> str:
     """
-    Returns the string representation of a given float.
+    Convert a float number to a string representation.
 
     Args:
-        n (float): The input float.
+        n (float): The float number to be converted.
 
     Returns:
-        str: The string representation of the input float.
+        str: The string representation of the input float number.
     """
     return str(n)

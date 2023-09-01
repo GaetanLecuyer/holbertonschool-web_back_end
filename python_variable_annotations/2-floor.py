@@ -8,12 +8,12 @@ import math
 
 def floor(n: float) -> int:
     """
-    Returns the floor of a given float.
+    Returns the largest integer less than or equal to the input number.
 
     Args:
-        n (float): The input float.
+        n (float): The input number.
 
     Returns:
-        float: The floor of the input float.
+        int: The largest integer less than or equal to the input number.
     """
     return math.floor(n)

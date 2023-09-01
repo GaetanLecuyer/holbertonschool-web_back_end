@@ -11,7 +11,6 @@ def concat(str1: str, str2: str) -> str:
         str2 (str): The second string.
 
     Returns:
-        str: The concatenated string.
+        str: The concatenation of str1 and str2.
     """
-    concatenated = str1 + str2
-    return concatenated
+    return str1 + str2
