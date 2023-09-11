@@ -1,11 +1,11 @@
 {
   "name": "es6_basic",
   "version": "1.0.0",
-  "description": "on construcion",
-  "main": "1-constants.js",
+  "description": "ES6 Basic Example",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node 1-main.js"
   },
-  "author": "gaetan",
-  "license": "ISC"
+  "dependencies": {},
+  "devDependencies": {}
 }
