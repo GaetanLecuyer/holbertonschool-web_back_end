@@ -11,3 +11,4 @@ export function taskBlock() {
   // task here refers to the outer variable, not the one inside the conditional block
   return task; // This will return 'I prefer const when I can.'
 }
+
